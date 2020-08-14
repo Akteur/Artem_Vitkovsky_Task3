@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.
 		{713599F7-A6F3-426A-B1A3-F2EF136AECA7} = {713599F7-A6F3-426A-B1A3-F2EF136AECA7}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakerLib", "..\FakerLib\FakerLib.csproj", "{713599F7-A6F3-426A-B1A3-F2EF136AECA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakerLib", "FakerLib\FakerLib.csproj", "{713599F7-A6F3-426A-B1A3-F2EF136AECA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

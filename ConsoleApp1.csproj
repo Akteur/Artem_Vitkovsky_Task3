@@ -80,7 +80,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FakerLib\FakerLib.csproj">
+    <ProjectReference Include="FakerLib\FakerLib.csproj">
       <Project>{713599f7-a6f3-426a-b1a3-f2ef136aeca7}</Project>
       <Name>FakerLib</Name>
     </ProjectReference>
